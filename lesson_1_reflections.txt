@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    As we know exactly which parts were change we can easily narrow down to a certain case which would be the one causing the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It can help us revert back to any older working versions at any time and can help us at avoiding smilar mistakes in the future.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually chosing commits help us easily figure out the difference between 2 commits as we manually decide after how many changes to commit and ussualy not down the change, whareas automatically saving your file might end up creating too many commits and us not knowing what the difference between each might be.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git aloows saving multiple files at once as that would be a prefered option when working on a project and a change was made both to the layout as well as the logic code, whereas Google Docs treats each file separately be cause it instataneously saves the chage made in the file from time to time and that would not be posible if it had to save all files simultaneosly.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log helps us veiw all the previous versions/commits of the given files and git diff can be used to tell the difference between any 2 files, thus allowing us to view the whole history of the files. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control makes us more confident at making changes that might break something as we have to option to revert bac to a working commint at any time thus making the aforementioned changes null and void.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I wanted to use git for version control of all futre android apps i wish to make.
