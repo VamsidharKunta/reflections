@@ -18,6 +18,8 @@ organized? How would branches help?
 	Branches can be helpfull in makink experimental changes while moving on with the working version unchanged. this can be very helpfull as we deal with the experimental version and working version seperatly and can merge them wehn needed.
 
 How do the diagrams help you visualize the branch structure?
+	
+	Diagrams give us a visual description about the starting and endpoints of all the different branches and sub branches from the master branch. This information is vital to visualize the branch structure.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
