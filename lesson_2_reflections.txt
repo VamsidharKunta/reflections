@@ -28,3 +28,5 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	
+	The automatic merging feature in git is very convinient to use and gets the job done. Though we might face some issues if there are conflicting name is seperate parts of different part of two branches they wil mostly show up as conflits. This is more efficent than doing the procces manually especially if the changes made are many in number.
